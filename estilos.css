@@ -1,0 +1,5 @@
+/* estilos.css */
+:root { --primario: #0a7; }
+body { font-family: system-ui, Arial, sans-serif; margin: 0; padding: 24px; }
+h1 { color: var(--primario); letter-spacing: .5px; }
+.btn { padding: 10px 16px; border-radius: 8px; border: 1px solid #ddd; }
